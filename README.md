@@ -1,6 +1,7 @@
 Packages I have Used
 
 - react-router-dom
-- redux - react-redux
+- redux
+- react-redux
 - @reduxjs/toolkit
 - uuid
